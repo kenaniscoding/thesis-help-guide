@@ -8,4 +8,3 @@ pip install mkdocs
 pip install mkdocs-material
 npm install glightbox
 ```
-```
