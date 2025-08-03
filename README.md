@@ -9,4 +9,3 @@ pip install mkdocs-material
 npm install glightbox
 ```
 ```
-```
